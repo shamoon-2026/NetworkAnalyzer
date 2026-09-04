@@ -86,7 +86,7 @@ NetworkAnalyzer-macOS/
 ├── Package.swift                  # Swift Package Manager定義
 ├── Info.plist                     # アプリバンドルのメタデータ
 ├── NetworkAnalyzer.entitlements   # com.apple.security.network.client のみ
-├── AppIcon.icns                   # アプリアイコン(仮)
+├── AppIcon.icns                   # アプリアイコン
 ├── build-app.sh                   # リリースビルド + .app バンドル作成スクリプト
 ├── Sources/
 │   ├── CDNSSD/                        # <dns_sd.h> を取り込むシステムライブラリターゲット

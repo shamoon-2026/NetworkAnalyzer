@@ -86,7 +86,7 @@ NetworkAnalyzer-macOS/
 ├── Package.swift                  # Swift Package Manager manifest
 ├── Info.plist                     # App bundle metadata
 ├── NetworkAnalyzer.entitlements   # com.apple.security.network.client only
-├── AppIcon.icns                   # App icon (placeholder)
+├── AppIcon.icns                   # App icon
 ├── build-app.sh                   # Release build + .app bundle assembly script
 ├── Sources/
 │   ├── CDNSSD/                        # System-library wrapper over <dns_sd.h>
